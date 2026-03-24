@@ -69,6 +69,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | RafaelExposito  | 1.500.201.000 | 1.500.201.999 |
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
+| TheJackal84     | 1.500.500.000 | 1.500.549.999 |
 | Builder_HD      | 1.507.000.000 | 1.507.000.999 |
 | S1LV3R-p0tat0   | 1.510.000.000 | 1.510.003.000 |
 | Jaradis         | 1.554.900.000 | 1.554.999.999 |
